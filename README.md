@@ -4,9 +4,7 @@
 
 _Cat facts_ app is for getting fun facts about cats.
 
-.. image:: screen_for_readme/screen.jpg
-:alt: IMAGE ALT TEXT HERE
-:target: screen_for_readme/screen_video.mp4
+[<img src="screen_for_readme/screen.jpg" width="50%">](screen_for_readme/screen_video.mp4 "Now in Android: 55")
 
 ## Emphasis
 _Used Dart version **2.18.5**_
