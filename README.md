@@ -4,7 +4,11 @@
 
 _Cat facts_ app is for getting fun facts about cats.
 
-[<img src="screen_for_readme/screen.jpg" width="50%">](https://github.com/ComputerScienceHayk/cat_facts/blob/main/screen_for_readme/screen_video.mp4 "Cat facts")
+[<img src="screen_for_readme/
+screen.jpg" width="50%">](https://github.com/ComputerScienceHayk/cat_facts/blob/main/screen_for_readme/screen_video.mp4 "Cat facts")
+
+https://user-images.githubusercontent.com/59318612/206149573-9ba4ecaa-bbeb-4925-8c82-a49429110b5d.mp4
+
 
 ## Emphasis
 _Used Dart version **2.18.5**_
