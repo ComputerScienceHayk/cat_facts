@@ -4,9 +4,9 @@
 
 _Cat facts_ app is for getting fun facts about cats.
 
-.. image:: screen.jpg
+.. image:: screen_for_readme/screen.jpg
 :alt: IMAGE ALT TEXT HERE
-:target: screen_video.mp4
+:target: screen_for_readme/screen_video.mp4
 
 ## Emphasis
 _Used Dart version **2.18.5**_
