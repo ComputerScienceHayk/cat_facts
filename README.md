@@ -4,7 +4,7 @@
 
 _Cat facts_ app is for getting fun facts about cats.
 
-https://user-images.githubusercontent.com/59318612/206149573-9ba4ecaa-bbeb-4925-8c82-a49429110b5d.mp4
+![video](https://user-images.githubusercontent.com/59318612/206151934-8f2dd667-d1ab-4615-8a36-9593897ab167.jpg)
 
 
 ## Emphasis
